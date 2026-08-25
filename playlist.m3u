@@ -944,6 +944,27 @@ http://ibb-media2.ibb.gov.tr:1935/live/976.stream/playlist.m3u8
 http://ibb-media2.ibb.gov.tr:1935/live/981.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM - 987
 http://ibb-media2.ibb.gov.tr:1935/live/987.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VIASAT.HISTORY.tr" tvg-name="VIASAT HISTORY" tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",VIASAT EXPLORE
+http://umperisn.mywire.org/index.php?id=594656&token=DeaTHLesS
+#EXTINF:-1 tvg-id="VIASAT.HISTORY.tr" tvg-name="VIASAT HISTORY" tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",VIASAT HISTORY
+http://umperisn.mywire.org/index.php?id=594658&token=DeaTHLesS
+#EXTINF:0, Discovery Channel
+https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
+#EXTINF:0,TARIH TV
+https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
+#EXTINF:0,TARIH TV
+https://nord.ayakkabiparti.lol/tarihtv/index.m3u8
+#EXTINF:0,HISTORY
+https://proud-river-e20b.pantonum1.workers.dev/history.m3u8
+#EXTINF:0,BBC EARTH
+https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
+#EXTINF:0,BBC EARTH
+https://nord.ayakkabiparti.lol/bbc/index.m3u8
+#EXTINF:0,LOVE NATURE
+https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
+#EXTINF:0,VIASAT HISTORY
+https://proud-river-e20b.pantonum1.workers.dev/viasathistory.m3u8
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2082355,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
