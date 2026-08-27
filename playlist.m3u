@@ -1,29 +1,4 @@
 #EXTM3U
-################## BELGELSEL ##################################
-#EXTINF:0,TRT BELGESEL
-http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="VIASAT.HISTORY.tr" tvg-name="VIASAT HISTORY" tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",VIASAT EXPLORE
-http://umperisn.mywire.org/index.php?id=594656&token=DeaTHLesS
-#EXTINF:-1 tvg-id="VIASAT.HISTORY.tr" tvg-name="VIASAT HISTORY" tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",VIASAT HISTORY
-http://umperisn.mywire.org/index.php?id=594658&token=DeaTHLesS
-#EXTINF:0,DISCOVERY ID
-https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8
-#EXTINF:0,DISCOVERY
-https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
-#EXTINF:0,TARIH TV
-https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
-#EXTINF:0,HISTORY
-https://proud-river-e20b.pantonum1.workers.dev/history.m3u8
-#EXTINF:0,BBC EARTH
-https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
-#EXTINF:0,NAT WILD
-https://saran-live.ercdn.net/natgeowild/index.m3u8
-#EXTINF:0,LOVE NATURE
-https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
-#EXTINF:0,TLC
-https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
-#EXTINF:0,DMAX
-https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
 #################### ULUSAL ##################################
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/TRT1.png" group-title=" ULUSAL", TRT 1 
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:88:CC:0E&stream=196699&extension=ts&play_token=vmAan78Qyz
@@ -96,6 +71,31 @@ http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:0,DIYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+################## BELGELSEL ##################################
+#EXTINF:0,TRT BELGESEL
+http://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="VIASAT.HISTORY.tr" tvg-name="VIASAT HISTORY" tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",VIASAT EXPLORE
+http://umperisn.mywire.org/index.php?id=594656&token=DeaTHLesS
+#EXTINF:-1 tvg-id="VIASAT.HISTORY.tr" tvg-name="VIASAT HISTORY" tvg-logo="https://i.hizliresim.com/i21k4te.png" group-title="Belgesel",VIASAT HISTORY
+http://umperisn.mywire.org/index.php?id=594658&token=DeaTHLesS
+#EXTINF:0,DISCOVERY ID
+https://proud-river-e20b.pantonum1.workers.dev/discs.m3u8
+#EXTINF:0,DISCOVERY
+https://proud-river-e20b.pantonum1.workers.dev/discovery.m3u8
+#EXTINF:0,TARIH TV
+https://proud-river-e20b.pantonum1.workers.dev/tarihtv.m3u8
+#EXTINF:0,HISTORY
+https://proud-river-e20b.pantonum1.workers.dev/history.m3u8
+#EXTINF:0,BBC EARTH
+https://proud-river-e20b.pantonum1.workers.dev/bbc.m3u8
+#EXTINF:0,NAT WILD
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:0,LOVE NATURE
+https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
+#EXTINF:0,TLC
+https://dogus.daioncdn.net/tlc/tlc.m3u8?app=tlc_web
+#EXTINF:0,DMAX
+https://dogus.daioncdn.net/dmax/dmax.m3u8?app=dmax_web
 
 #################### MÜZIK ##################################
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Powert%C3%BCrktv.png" group-title=" MÜZIK", POWER TÜRK 
