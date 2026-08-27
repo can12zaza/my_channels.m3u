@@ -1,0 +1,494 @@
+#EXTM3U
+#################### İBB ##################################
+#EXTINF:-1 group-title="İBB",USKUDAR
+https://hls.ibb.gov.tr/ls/cam_turistik/b_uskudar.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB",EMİNÖNÜ
+https://hls.ibb.gov.tr/ls/cam_turistik/b_eminonu.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB",EMİNONU
+https://hls.ibb.gov.tr/ls/cam_turistik/b_eminonu.stream/chunklist.m3u8
+#EXTINF:-1 group-title="İBB",EYÜP SULTAN
+https://hls.ibb.gov.tr/ls/cam_turistik/b_eyupsultan.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB",KADIKÖY
+https://hls.ibb.gov.tr/tkm1/hls/224.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB",BOSTANCI
+https://hls.ibb.gov.tr/tkm1/hls/260.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB",K.KOY
+https://hls.ibb.gov.tr/tkm1/hls/204.stream/chunklist.m3u8
+#EXTINF:-1 group-title="İBB",UNKAP
+https://hls.ibb.gov.tr/tkm2/hls/399.stream/chunklist.m3u8
+#EXTINF:-1 group-title="İBB",15TEM
+https://hls.ibb.gov.tr/tkm2/hls/81.stream/chunklist.m3u8
+#EXTINF:-1 group-title="İBB",TAX
+https://hls.ibb.gov.tr/tkm1/hls/193.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB",TAKSİM
+https://hls.ibb.gov.tr/ls/cam_turistik/b_taksim_meydan.stream/playlist.m3u8
+#EXTINF:-1 group-title="İBB",FSKÖPRÜ
+https://hls.ibb.gov.tr/tkm1/hls/341.stream/chunklist.m3u8
+#EXTINF:-1 group-title="İBB",PERPA
+https://hls.ibb.gov.tr/tkm2/hls/915.stream/media-uee67pvez_1092.m3u
+#EXTINF:-1 group-title="İBB",BAHRİYE CAD
+https://hls.ibb.gov.tr/tkm1/hls/208.stream/chunklist.m3u8
+#EXTINF:-1 group-title="İBB",UNKAPANI2
+https://hls.ibb.gov.tr/tkm1/hls/181.stream/media-uf9t48e94_243.m3u
+#EXTINF:-1 group-title="İBB",BOĞAZKÖP
+https://hls.ibb.gov.tr/tkm1/hls/79.stream/media-ujdb1zi8d_2914.m3u
+#################### BEACH ##################################
+#EXTINF:-1 group-title="BEACH",BEACH1
+https://usw01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.wyscerq.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt2849.rc0.edge.basic.stream/chunklist_w584978897.m3u8
+#EXTINF:-1 group-title="BEACH",BEACH2
+https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.drwger6.fd0.sm1.av2.mt0.at0.as0.dv0.sh2.rt2849.rc0.edge.basic.stream/chunklist_w1076234934.m3u8
+#EXTINF:-1 group-title="BEACH",DRAGE
+https://cdn-004.whatsupcams.com/hls/hr_drage03.m3u8
+#EXTINF:-1 group-title="BEACH",GABBİANİ
+https://cdn-005.whatsupcams.com/hls/it_palau05.m3u8
+#EXTINF:-1 group-title="BEACH",NATURE
+https://cdn-002.whatsupcams.com/hls/hr_promajna01.m3u8
+#EXTINF:-1 group-title="BEACH",NİZUC
+https://s40.ipcamlive.com/streams_timeshift/285cbf3053597caa2/stream.m3u8
+#EXTINF:-1 group-title="BEACH",ZİVOGECA
+https://cdn-004.whatsupcams.com/hls/hr_zivogosce02.m3u8
+#EXTINF:-1 group-title="BEACH",BUDONİ
+https://cdn-006.whatsupcams.com/hls/it_budoni01.m3u8
+#EXTINF:-1  tvg-logo="https://www.meteobox.pl/api-svg/polska/g/gdynia-pl.svg" group-title="Miasta",Gdynia Orłowo
+https://ls.tkchopin.pl:9043/live/gdynia_orlowo_plaza_obrotowa.stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://www.meteobox.pl/api-svg/polska/h/hel-pl.svg" group-title="Miasta",Hel
+https://ls.tkchopin.pl:9043/live/hel_bulwar_nadmorski_obrotowa.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",ŚWINOUJCIE - widok na Beach i morze
+https://hoktastream4.webcamera.pl/swinoujscie_cam_3be0ba/swinoujscie_cam_3be0ba.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",ŚWINOUJCIE - widok na plażę
+https://hoktastream4.webcamera.pl/swinoujscie_cam_7eca1e/swinoujscie_cam_7eca1e.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",MIĘDZYZDROJE - widok na morze
+https://hoktastream1.webcamera.pl/miedzyzdroje_cam_613997/miedzyzdroje_cam_613997.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",Międzyzdroje - widok na wschodnią stronę plaży
+https://hoktastream1.webcamera.pl/miedzyzdroje_cam_52898b/miedzyzdroje_cam_52898b.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",Międzyzdroje - widok na plażę
+https://hoktastream1.webcamera.pl/miedzyzdroje_cam_bcc4fd/miedzyzdroje_cam_bcc4fd.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",Międzyzdroje - Molo Międzyzdroje
+https://streaming.airmax.pl/apiconnect4_molo1/index.m3u8
+#EXTINF:-1  group-title="Beach",Międzywodzie - widok na plażę
+https://hoktastream3.webcamera.pl/miedzywodzie_cam_6b6996/miedzywodzie_cam_6b6996.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",Dziwnów - widok na Marinę
+https://hoktastream1.webcamera.pl/dziwnowum_cam_05f247/dziwnowum_cam_05f247.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",DZIWNÓW - widok na plażę
+https://hoktastream1.webcamera.pl/dziwnowum_cam_a4181f/dziwnowum_cam_a4181f.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",DZIWNÓWEK - widok na deptak
+https://hoktastream1.webcamera.pl/dziwnow_cam_175c61/dziwnow_cam_175c61.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",Pustkowo - widok na Krzyż Nadziei
+https://hoktastream1.webcamera.pl/gminarewal_cam_95ef9b/gminarewal_cam_95ef9b.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",TRZĘSACZ - widok na plażę
+https://hoktastream2.webcamera.pl/gminarewal_cam_635a3d/gminarewal_cam_635a3d.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",REWAL - widok na plażę
+https://hoktastream2.webcamera.pl/gminarewal_cam_a882c3/gminarewal_cam_a882c3.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",REWAL - widok na deptak
+https://hoktastream1.webcamera.pl/gminarewal_cam_a95d00/gminarewal_cam_a95d00.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",NIECHORZE - widok na plażę i morze
+https://hoktastream2.webcamera.pl/niechorzeplaza_cam_956637/niechorzeplaza_cam_956637.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",NIECHORZE - widok panoramiczny
+https://hoktastream1.webcamera.pl/rewal_cam_003f77/rewal_cam_003f77.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",MRZEŻYNO - widok na plażę
+https://hoktastream4.webcamera.pl/mrzezyno_cam_9c9575/mrzezyno_cam_9c9575.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",ROGOWO - widok na plażę
+https://hoktastream4.webcamera.pl/rogowo_cam_c81371/rogowo_cam_c81371.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",DŹWIRZYNO - widok na plażę
+https://hoktastream2.webcamera.pl/dzwirzyno_cam_59c728/dzwirzyno_cam_59c728.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",Grzybowo - widok na plażę
+https://hoktastream2.webcamera.pl/grzybowo_cam_31ad63/grzybowo_cam_31ad63.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",KOŁOBRZEG - widok na plażę zachodnią
+https://hoktastream4.webcamera.pl/kolobrzeg_cam_6df535/kolobrzeg_cam_6df535.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",KOŁOBRZEG - widok na molo i plażę
+https://hoktastream5.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",KOŁOBRZEG - widok na marinę
+https://hoktastream1.webcamera.pl/kolobrzegmarina_cam_967ce0/kolobrzegmarina_cam_967ce0.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",KOŁOBRZEG - widok na plażę
+https://hoktastream3.webcamera.pl/kolobrzeg_cam_c26ccc/kolobrzeg_cam_c26ccc.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",USTRONIE MORSKIE - widok na plażę
+https://hoktastream1.webcamera.pl/umustronie_cam_8305a4/umustronie_cam_8305a4.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",SARBINOWO - widok na plażę
+https://hoktastream3.webcamera.pl/sarbinowo_cam_390a25/sarbinowo_cam_390a25.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",CHŁOPY - widok na kutry rybackie i morze
+https://hoktastream2.webcamera.pl/chlopy_cam_73ac3a/chlopy_cam_73ac3a.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",MIELNO - widok na plażę
+https://hoktastream4.webcamera.pl/mielno_cam_0e2e7c/mielno_cam_0e2e7c.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",ŁAZY - widok na plażę
+https://hoktastream4.webcamera.pl/lazy_cam_a0366d/lazy_cam_a0366d.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",Jezioro Bukowo oraz plaża
+https://hoktastream4.webcamera.pl/gmina_darlowo_cam_2d6aad/gmina_darlowo_cam_2d6aad.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",BOBOLIN - widok na plażę
+https://hoktastream4.webcamera.pl/gmina_darlowo_cam_2807ee/gmina_darlowo_cam_2807ee.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",DARŁOWO - widok na plażę wschodnią
+https://hoktastream1.webcamera.pl/darlowo_cam_dc4e72/darlowo_cam_dc4e72.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",WICIE - widok na deptak
+https://hoktastream4.webcamera.pl/gmina_darlowo_cam_705510/gmina_darlowo_cam_705510.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",Dubaj... w Jarosławcu
+https://hoktastream1.webcamera.pl/jaroslawiec_cam_bc9f03/jaroslawiec_cam_bc9f03.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",Jarosławiec - widok na deptak
+https://hoktastream3.webcamera.pl/jaroslawiec_cam_1cced2/jaroslawiec_cam_1cced2.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",Jarosławiec - widok na plażę
+https://hoktastream1.webcamera.pl/jaroslawiec_cam_40eca5/jaroslawiec_cam_40eca5.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",Jarosławiec - widok panoramiczny na morze
+https://hoktastream2.webcamera.pl/jarosprez_cam_fc31f4/jarosprez_cam_fc31f4.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",USTKA - widok z pylonu na część portową i plażę
+https://hoktastream1.webcamera.pl/ustka_cam_4b0fca/ustka_cam_4b0fca.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",USTKA - widok na Beach
+https://hoktastream3.webcamera.pl/ustka_cam_104ebc/ustka_cam_104ebc.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",USTKA - widok na plażę
+https://hoktastream1.webcamera.pl/ustka_cam_4feffd/ustka_cam_4feffd.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",ROWY - widok na plażę i morze
+https://hoktastream3.webcamera.pl/gminaustka_cam_294fb0/gminaustka_cam_294fb0.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",ŁEBA - Kamera z widokiem na plażę i morze
+https://hoktastream4.webcamera.pl/leba_cam_0d3c03/leba_cam_0d3c03.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",Łeba - widok na plażę z Hotelu Neptun
+https://hoktastream1.webcamera.pl/leba_cam_863fcf/leba_cam_863fcf.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",LUBIATOWO PLAŻA
+https://hoktastream3.webcamera.pl/lubiatowo_cam_543fb2/lubiatowo_cam_543fb2.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",DĘBKI - widok na plażę
+https://hoktastream2.webcamera.pl/debki_cam_284a24/debki_cam_284a24.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",JASTRZĘBIA GÓRA - widok na plażę
+https://hoktastream1.webcamera.pl/wladyslawowo_cam_250100/wladyslawowo_cam_250100.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",CHŁAPOWO widok panoramiczny na morze
+https://hoktastream3.webcamera.pl/wladyslawowo_cam_2979bb/wladyslawowo_cam_2979bb.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",WŁADYSŁAWOWO - widok na plażę
+https://ls.tkchopin.pl/live/wladyslawowo_plaza_obrotowa.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",Władysławowo Małe Morze
+https://ls.tkchopin.pl/live/wladyslawowo_kemping_male_morze_molo_obrotowa.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",Karwia - widok na plażę
+https://hoktastream2.webcamera.pl/wladyslawowo_cam_3c51c2/wladyslawowo_cam_3c51c2.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",Puck - Zatoka Pucka
+https://ls.tkchopin.pl/live/puck_wieza_kosciola_zatokapucka_obrotowa.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",KUŹNICA - widok na plażę z wierzy kościoła
+https://hoktastream3.webcamera.pl/kuznica_cam_b7acd2/kuznica_cam_b7acd2.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",JASTARNIA - widok na Zatokę Pucką
+https://hoktastream2.webcamera.pl/jastarnia_cam_a14385/jastarnia_cam_a14385.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",JURATA - widok na Molo
+https://hoktastream1.webcamera.pl/jurata_cam_c060aa/jurata_cam_c060aa.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",Jurata - widok na plażę
+https://hoktastream4.webcamera.pl/jurata_cam_24f25d/jurata_cam_24f25d.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",HEL - widok na marinę
+https://hoktastream1.webcamera.pl/hel_cam_79fe71/hel_cam_79fe71.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",HEL - widok na bulwar i plażę
+https://hoktastream1.webcamera.pl/hel_cam_cf55ee/hel_cam_cf55ee.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",REWA - widok na Zatokę Puck
+https://hoktastream3.webcamera.pl/rewa_cam_c2a755/rewa_cam_c2a755.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",GDYNIA - widok na wejście do Portu Morskiego i terminal
+https://hoktastream1.webcamera.pl/gdynia_cam_e257dc/gdynia_cam_e257dc.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",GDYNIA - widok na Przystań Jachtową
+https://hoktastream1.webcamera.pl/gdynia_cam_b3ccea/gdynia_cam_b3ccea.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",GDYNIA - widok na plażę i marinę
+https://hoktastream1.webcamera.pl/gdynia_cam_b80d1e/gdynia_cam_b80d1e.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",SOPOT - widok z molo
+https://hoktastream1.webcamera.pl/sopot_cam_e1c28f/sopot_cam_e1c28f.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",SOPOT - widok na Monciak
+https://hoktastream2.webcamera.pl/sopot_cam_7b9f92/sopot_cam_7b9f92.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",Gdańsk Brzeźno - widok na Molo
+https://hoktastream5.webcamera.pl/gdansk_cam_77aeaf/gdansk_cam_77aeaf.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",Plaża Stogi w Gdańsku
+https://hoktastream2.webcamera.pl/umgdansk_cam_e25623/umgdansk_cam_e25623.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",SOPOT - widok na plażę
+https://hoktastream1.webcamera.pl/sopot_cam_5d1d8c/sopot_cam_5d1d8c.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",STEGNA - widok na plażę
+https://hoktastream4.webcamera.pl/stegna_cam_7e8d95/stegna_cam_7e8d95.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",JANTAR - widok na Beach
+https://hoktastream3.webcamera.pl/jantar_cam_8948dd/jantar_cam_8948dd.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",KĄTY RYBACKIE - widok na Beach
+https://hoktastream1.webcamera.pl/katyrybackie_cam_2d3c0c/katyrybackie_cam_2d3c0c.stream/playlist.m3u8
+#EXTINF:-1  group-title="Beach",KRYNICA MORSKA - widok na Beach
+https://hoktastream4.webcamera.pl/krynicamorska_cam_ba179a/krynicamorska_cam_ba179a.stream/playlist.m3u8
+#EXTINF:-1 group-title="Beach",ŚWINOUJCIE - widok na Plaże i morze
+https://hoktastream4.Beach.pl/swinoujscie_cam_3be0ba/swinoujscie_cam_3be0ba.stream/playlist.m3u8
+#EXTINF:-1 group-title="Beach",USTKA - widok na Plaże
+https://hoktastream3.Beach.pl/ustka_cam_104ebc/ustka_cam_104ebc.stream/playlist.m3u8
+#EXTINF:-1 group-title="Beach",JANTAR - widok na Plaże
+https://hoktastream3.Beach.pl/jantar_cam_8948dd/jantar_cam_8948dd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Beach",KĄTY RYBACKIE - widok na plaże
+https://hoktastream1.Beach.pl/katyrybackie_cam_2d3c0c/katyrybackie_cam_2d3c0c.stream/playlist.m3u8
+#EXTINF:-1 group-title="Beach",KRYNICA MORSKA - widok na plaże
+https://hoktastream4.Beach.pl/krynicamorska_cam_ba179a/krynicamorska_cam_ba179a.stream/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia Canide Norte - Sul
+https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Espinho
+https://video-auth1.iol.pt/beachcam/espinho/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Esmoriz
+https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Furadouro
+https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia da Torreira
+https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia da Barra,
+https://video-auth1.iol.pt/beachcam/aveiro/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Costa Nova
+https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia de Mira
+https://video-auth1.iol.pt/beachcam/bcmira/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia da Tocha
+https://video-auth1.iol.pt/beachcam/tocha/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Figueira da Foz
+https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Figueira da Foz - Buarcos
+https://video-auth1.iol.pt/beachcam/bcfigueiradois/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia Osso da Baleia
+https://video-auth1.iol.pt/beachcam/ossodabaleia/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia do Pedrógão
+https://video-auth1.iol.pt/beachcam/praiapedrogao/playlist.m3u8
+#EXTINF:-1 group-title="Beach",São Pedro de Moel
+https://video-auth1.iol.pt/beachcam/bcsaopedromoel/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Nazaré - Forte S. Miguel Arcanjo
+https://video-auth1.iol.pt/beachcam/bcarcanjo3/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Nazaré - Forte S. Miguel Arcanjo – Baía
+https://video-auth1.iol.pt/beachcam/bcarcanjo1/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Nazaré - Praia do Norte
+https://video-auth1.iol.pt/beachcam/canhaonazare/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Nazaré - Praia do Norte panorâmica
+https://video-auth1.iol.pt/beachcam/nazareparadonorte/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Nazaré - Praia da Vila
+https://video-auth1.iol.pt/beachcam/nazarepraiadavila/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Nazaré - Porto de Abrigo
+https://video-auth1.iol.pt/beachcam/bcportodeabrigo/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Foz do Arelho
+https://video-auth1.iol.pt/beachcam/bcfozdoarelho/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Peniche – Lagide
+https://video-auth1.iol.pt/beachcam/lagide/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Peniche – Supertubos
+https://video-auth1.iol.pt/beachcam/supertubos/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Areia Branca
+https://video-auth1.iol.pt/beachcam/bcareiabranca/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia de Santa Rita
+https://video-auth1.iol.pt/beachcam/vimeiro/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Santa Cruz
+https://video-auth1.iol.pt/beachcam/santacruz/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Santa Cruz - Praia Azul
+https://video-auth1.iol.pt/beachcam/bcpraiaazul/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia da Calada
+https://video-auth1.iol.pt/beachcam/praiadacalada/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Ericeira
+https://video-auth1.iol.pt/beachcam/ericeiraspots/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia dos Pescadores
+https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Ericeira - Praia do Sul
+https://video-auth1.iol.pt/beachcam/praiadosulericeira/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia das Maçãs
+https://video-auth1.iol.pt/beachcam/praiadasmacas/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia Pequena
+https://video-auth1.iol.pt/beachcam/bcpraiapequena/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia Grande – Norte
+https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia Grande – Sul
+https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia do Guincho – Sul
+https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia da Cresmina
+https://video-auth1.iol.pt/beachcam/crismina/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Baía de Cascais
+https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia da Conceição e Duquesa
+https://video-auth1.iol.pt/beachcam/conceicao/playlist.m3u8
+#EXTINF:-1 group-title="Beach",São João do Estoril
+https://video-auth1.iol.pt/beachcam/saojoaodoestoril/playlist.m3u8
+#EXTINF:-1 group-title="Beach",São Pedro do Estoril
+http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia das Avencas
+https://video-auth1.iol.pt/beachcam/praiadasavencas/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Carcavelos
+https://video-auth1.iol.pt/beachcam/carcavelos/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Carcavelos – Calhau
+https://video-auth1.iol.pt/beachcam/carcavelos2/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Santo Amaro
+https://video-auth1.iol.pt/beachcam/santoamaro/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Costa de Caparica - CDS Norte
+https://video-auth1.iol.pt/beachcam/costacaparicacds/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Costa de Caparica - CDS Sul
+https://video-auth1.iol.pt/beachcam/costacaparicabernard/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Costa de Caparica - Praia Nova
+https://video-auth1.iol.pt/beachcam/bccaparicanovapraia/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Costa de Caparica – Riviera
+https://video-auth1.iol.pt/beachcam/riviera/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Lagoa de Albufeira
+https://video-auth1.iol.pt/beachcam/bclagoaalbufeira/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia do Meco
+https://video-auth1.iol.pt/beachcam/bcmeco/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia das Bicas
+https://video-auth1.iol.pt/beachcam/bcpraiadasbicas/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia Sesimbra
+https://video-auth1.iol.pt/beachcam/sesimbra/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Portinho da Arrábida
+https://video-auth1.iol.pt/beachcam/bcportinho/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Albarquel
+https://video-auth1.iol.pt/beachcam/bcalbarquel/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Troia
+https://video-auth1.iol.pt/beachcam/bctroia/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia do Carvalhal
+https://video-auth1.iol.pt/beachcam/carvalhal/playlist.m3u8
+#EXTINF:-1 group-title="Beach",S. Torpes
+https://video-auth1.iol.pt/beachcam/saotorpes/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Vila Nova de Milfontes – Franquia
+https://video-auth1.iol.pt/beachcam/bcfranquia/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Vila Nova de Milfontes – Farol
+https://video-auth1.iol.pt/beachcam/bcfarol/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Vila Nova de Milfontes - Furnas Mar
+https://video-auth1.iol.pt/beachcam/furnasmar/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Almograve
+https://video-auth1.iol.pt/beachcam/bcalmograve/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Zambujeira do Mar
+https://video-auth1.iol.pt/beachcam/zambujeira/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Odeceixe
+https://video-auth1.iol.pt/beachcam/bcodeceixe/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Monte Clérigo
+https://video-auth1.iol.pt/beachcam/bcmonteclerigo/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Arrifana
+https://video-auth1.iol.pt/beachcam/arrifana/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia do Amado
+https://video-auth1.iol.pt/beachcam/bcamado/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia da Luz
+https://video-auth1.iol.pt/beachcam/luz/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Alvor
+https://video-auth1.iol.pt/beachcam/alvor/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Alvor Nascente
+https://video-auth1.iol.pt/beachcam/bcalvornascente/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia da Rocha
+https://video-auth1.iol.pt/beachcam/praiadarocha/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Ferragudo - Praia Grande
+https://video-auth1.iol.pt/beachcam/ferragudo/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Carvoeiro
+https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Senhora da Rocha e Praia Nova
+https://video-auth1.iol.pt/beachcam/bcigreja/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Armação de Pêra
+https://video-auth1.iol.pt/beachcam/armacaodepera/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia da Galé
+https://video-auth1.iol.pt/beachcam/bcgale/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia do Peneco
+https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Vilamoura
+https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Faro
+https://video-auth1.iol.pt/beachcam/bcfaro/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Alagoa – Altura
+https://video-auth1.iol.pt/beachcam/bcalagoa/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia Verde - Castro Marim
+https://video-auth1.iol.pt/beachcam/bcpraiaverde/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Madeira - Ponta Pequena – Paul
+https://video-auth1.iol.pt/beachcam/madeirajardimdomar/playlist.m3u8
+#EXTINF:-1 group-title="Ulusal",Madeira - Jardim do Mar
+https://video-auth1.iol.pt/beachcam/jardimdomardois/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Madeira - Porto Santo
+https://video-auth1.iol.pt/beachcam/bcportosanto/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia das Rocas
+https://video-auth1.iol.pt/beachcam/praiadasrocas/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Ferreira do Zêzere - Lago Azul
+https://video-auth1.iol.pt/beachcam/bclagoazul/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Ferreira do Zêzere – Dornes
+https://video-auth1.iol.pt/beachcam/bcdornes/playlist.m3u8
+#EXTINF:-1 group-title="Ulusal",Viana do Castelo | Afife | Arda
+https://video-auth1.iol.pt/beachcam/bcafife/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Viana do Castelo | Cabedelo
+https://video-auth1.iol.pt/beachcam/bccabedeloviana/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Esposende - Foz Do Rio Cávado
+https://video-auth1.iol.pt/beachcam/bcfarolesposende/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Apúlia
+https://video-auth1.iol.pt/beachcam/bcapulia/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Leça da Palmeira | Panorâmica | Aterro
+https://video-auth1.iol.pt/beachcam/bcfarolleca/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Espinho | Pico do casino | Estática
+https://video-auth1.iol.pt/beachcam/bcespinhofixa/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Espinho | Silvade | Estática |
+https://video-auth1.iol.pt/beachcam/bcsilvadefixa/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Espinho | Silvade
+https://video-auth1.iol.pt/beachcam/bcsilvade/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia de São Jacinto | Barra
+https://video-auth1.iol.pt/beachcam/bcfarolbarra/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Murtinheira
+https://video-auth1.iol.pt/beachcam/bcmurtinheira/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Figueira da Foz | Buarcos | Estática
+https://video-auth1.iol.pt/beachcam/bcbuarcos/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Figueira da Foz | Cabedelo
+https://video-auth1.iol.pt/beachcam/bcfigueiracabeledo/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Pedra do Ouro
+https://video-auth1.iol.pt/beachcam/bcpraiaouro/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Paredes da Vitória
+https://video-auth1.iol.pt/beachcam/bcparedesvitoria/playlist.m3u8
+#EXTINF:-1 group-title="Beach",São Martinho do Porto
+https://video-auth1.iol.pt/beachcam/bcsaomartinho/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Peniche | Lagide | Estática
+https://video-auth1.iol.pt/beachcam/bclagidefixa/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Peniche | Cantinho da Baia | Estática
+https://video-auth1.iol.pt/beachcam/bcbalealcantinho/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Peniche | Baleal | Panorâmica
+https://video-auth1.iol.pt/beachcam/bcbalealgeral/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Peniche | Consolação
+https://video-auth1.iol.pt/beachcam/bcconsolacao/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Peniche | Molhe Leste | Estática
+https://video-auth1.iol.pt/beachcam/bcmolheleste/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Peniche | Supertubos | Estática
+https://video-auth1.iol.pt/beachcam/bcsupertubosfixa/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Ribeira D´Ilhas
+https://video-auth1.iol.pt/beachcam/bcmafraribeira/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Ribeira D´Ilhas | Estática
+https://video-auth1.iol.pt/beachcam/bcribeirafixa/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Foz do Lizandro
+https://video-auth1.iol.pt/beachcam/fozdolizandro/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia do Guincho | Norte
+https://video-auth1.iol.pt/beachcam/praiaguinchonorte/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia do Guincho | Estática
+https://video-auth1.iol.pt/beachcam/bcguinchofixa/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia das Moitas | Estática
+https://video-auth1.iol.pt/beachcam/bctamarizfixa/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Bafureira | Estática
+https://video-auth1.iol.pt/beachcam/bcbafureirafixa/playlist.m3u8
+#EXTINF:-1 group-title="Beach",São Pedro do Estoril | Bico Estática
+https://video-auth1.iol.pt/beachcam/bcsaopedrofixa/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Carcavelos | Norte | Estática
+https://video-auth1.iol.pt/beachcam/bccarcavelosnortefixa/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Carcavelos | Calhau | Estática
+https://video-auth1.iol.pt/beachcam/bccarcaveloscalhaufixa/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Paço de Arcos
+https://video-auth1.iol.pt/beachcam/parcos/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Paço de Arcos | Estática
+https://video-auth1.iol.pt/beachcam/pacodearcosfixa/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Santo Amaro | Estática
+https://video-auth1.iol.pt/beachcam/santoamarofixa/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Costa de Caparica | Praia Norte | Estática
+https://video-auth1.iol.pt/beachcam/bccostasantoantonio/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Costa de Caparica | São João | Cova do Vapor
+https://video-auth1.iol.pt/beachcam/bccostasaojoao/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Costa de Caparica | Praia do Norte
+https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Costa de Caparica | CDS NORTE | Estática
+https://video-auth1.iol.pt/beachcam/bccaparicanortefixa/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Costa de Caparica | CDS SUL | Estática
+https://video-auth1.iol.pt/beachcam/bcdrbernard/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Costa de Caparica | Tarquínio | Estática
+https://video-auth1.iol.pt/beachcam/bctarquinho2/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Costa de Caparica | Tarquínio
+https://video-auth1.iol.pt/beachcam/bctarquinho/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Costa de Caparica | Praia Nova | Estática
+https://video-auth1.iol.pt/beachcam/bcnovapraia/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Costa de Caparica | Cabana do Pescador
+https://video-auth1.iol.pt/beachcam/bccabanadopescador/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Fonte da Telha | SUL
+https://video-auth1.iol.pt/beachcam/bcbambu/playlist.m3u8
+#EXTINF:-1 group-title="Beach",São Torpes | Estática
+https://video-auth1.iol.pt/beachcam/bcsaotorpes2/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Carvalhal
+https://video-auth1.iol.pt/beachcam/bccarvalhalodemira/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia da Amoreira
+https://video-auth1.iol.pt/beachcam/bcamoreira/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia do Vau
+https://video-auth1.iol.pt/beachcam/bcvauportimao/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Portimão | Praia do Amado
+https://video-auth1.iol.pt/beachcam/bcamadoportimao/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia da Rocha | Miradouro
+https://video-auth1.iol.pt/beachcam/bcmiradourorocha/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia da Rocha | Estática
+https://video-auth1.iol.pt/beachcam/bcrochaportimao/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Praia da Rocha | Marina
+https://video-auth1.iol.pt/beachcam/bcrochaportimao2/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Meia Praia
+https://video-auth1.iol.pt/beachcam/meiapraia/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Faro | Praia de Faro Oeste
+https://video-auth1.iol.pt/beachcam/bcfaropraia/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Faro | Ilha da Culatra
+https://video-auth1.iol.pt/beachcam/bcfarolfaro/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Madeira | Seixal
+https://video-auth1.iol.pt/beachcam/bcmadeiraseixal/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Madeira | Fajã da Areia
+https://video-auth1.iol.pt/beachcam/bcfaja/playlist.m3u8
+#EXTINF:-1 group-title="Beach",Madeira | Paul do Mar
