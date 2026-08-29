@@ -615,8 +615,3 @@ http://ibb-media2.ibb.gov.tr:1935/live/976.stream/playlist.m3u8
 http://ibb-media2.ibb.gov.tr:1935/live/981.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM - 987
 http://ibb-media2.ibb.gov.tr:1935/live/987.stream/playlist.m3u8
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2082355,FRAME-RATE=25,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2"
-https://video-auth8.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDI2IDU6Njo5IEFNJmhhc2hfdmFsdWU9VmVaS1AreG5YOCtXK1paRlJ1M01FZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPThiOWE0NjQzLWJmM2ItNDg5ZS1hNTIzLTQ5NmU4YzQyNWE2Yw==
-
