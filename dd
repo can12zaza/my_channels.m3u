@@ -12,12 +12,7 @@ https://moondigitaledge2.radyotvonline.net/radyo7muhtesem4lu/playlist.m3u8
 #EXTINF:-1 group-title="Radyo",ANKARA HV
 https://moondigitaledge2.radyotvonline.net/radyo7ankara/playlist.m3u8
 #################### İBB ##################################
-#EXTINF:-1 group-title="İBB",USKUDAR
-https://hls.ibb.gov.tr/ls/cam_turistik/b_uskudar.stream/playlist.m3u8
-#EXTINF:-1 group-title="İBB",EMİNÖNÜ
-https://hls.ibb.gov.tr/ls/cam_turistik/b_eminonu.stream/playlist.m3u8
-#EXTINF:-1 group-title="İBB",EMİNONU
-https://hls.ibb.gov.tr/ls/cam_turistik/b_eminonu.stream/chunklist.m3u8
+
 #EXTINF:-1 group-title="İBB",EYÜP SULTAN
 https://hls.ibb.gov.tr/ls/cam_turistik/b_eyupsultan.stream/playlist.m3u8
 #EXTINF:-1 group-title="İBB",KADIKÖY
